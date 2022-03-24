@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"PHPUnitPro\\tests\\UserTest::test_returns_users_full_name":0.007,"PHPUnitPro\\tests\\UserTest::test_full_name_is_null":0}}
